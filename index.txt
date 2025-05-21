@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<title>Dreamy Vacation Homes- Home Page</title>
+		<link type="text/css" rel="stylesheet" href="./stylesheets/index.css">			
+	</head>
+	<body>
+		<header>
+			<div id="hearts">დდდდდდდდდდდდდდდდდდდდდდდდდდდდდდდდდდდდდდდდდდ</div>
+				<h1 id="websitename">Dreamy Vacation Homes</h1>
+			<div id="logo">
+				<img alt="skeleton key" src="./images/key.jpg" width="120" height="75"/>
+			</div>
+		</header>
+		<div id="tableContainer">
+		     <div id="tableRow">
+			<div> 
+				<nav>
+				<ul>
+					<li><a class="selected" title="Home" href="index.html">Home</a></li>
+					<li><a title="Rentals" href="./htmls/rentals.html">Rentals</a></li>
+					<li><a title="Reservations" href="./htmls/reservations.html">Reservations</a></li>
+					<li><a title="Coming Soon" href="./htmls/comingsoon.html">Coming Soon</a></li>
+					<li><a title="Walker" href="./htmls/walker.html">Walker, MN</a></li>
+				</ul>
+				</nav>
+			</div>
+			<section id="main">
+				<div id="lake">
+					<img alt="looking through some trees at a large lake" src="./images/lake.jpg" width="300" height="300"/>
+					<p>Photo Credit: David Molnar (https://www.freeimages.com/photo/lake-1370005)</p>
+				</div>
+				<h4>Come stay at one of our dreamy vacation homes in Walker, MN!  
+				Our family-owned business has been renting vacation homes for the past 10 years.  
+				We love what we do and love providing rest and relaxation for all YOU hard-working families out there!</h4>
+				<ul>
+					<li>3 Dreamy Homes for Rent</li>
+					<li>Guaranteed Satisfaction</li>
+					<li>Stay, Play, and Relax</li>
+					<li>Only 3 Hours from the Twin Cities</li>
+				</ul>
+			</section>
+			<aside>
+				<h3 id="reservations"><b>Click <a href="./htmls/reservations.html" 
+           			title="Click for Reservations">here</a> for Reservations</b></h3>
+				<p>-------------------</p>
+				<h3><b>Read Our Customer Reviews:</b></h3>
+				<p>★★★★★ Top Rated 5/5 stars</p>
+				<div id="reviews">
+				<p>“We cannot say enough about our amazing stay in Walker!  We stayed for two weeks at the lake home and 
+				wish we would have reserved it for another week.  We are definitely coming back!!”  Sam W., Forest Lake, MN</p>
+				<p>“My family has stayed at the log home each summer for the past 6 years.  The home is phenomenal, and we love 
+				bringing our kids up each summer!”  Luke S., Ramsey, MN</p>
+				</div>
+			</aside>
+		    </div>
+		</div>
+		<footer>
+			<h1>Thanks for visiting our site!</h1>
+			<h3 id="rating">BBB Rating: A+</h3>
+		</footer>
+	</body>
+</html>
