@@ -1,1 +1,1 @@
-Download the zipfile of the 'final' folder to view my example website.
+Download the ZIP file of the 'final' folder to view my example website.
