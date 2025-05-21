@@ -1,0 +1,164 @@
+body {
+	background-color:  #6AE0D1;
+	font-family:       "Comic Sans MS", cursive, sans-serif;
+	font-size:	   small;
+	text-align:        center;
+	margin:            0px;				
+}
+header {
+	margin:  	   0 auto;
+	padding: 	   10px 0px 10px 0px;
+	background-color:  #2E615A;
+	height:            75px;
+	text-align:        center;
+}
+nav {
+	display: 	   table-cell;
+	margin:		   0 auto;
+	padding:	   0;
+	width:             300px;
+	font-size:	   1.4em;
+	background-color:  #51ADA1;
+	list-style-type:   none;
+}
+nav ul {
+	margin:		   0;
+	list-style-type:   none;
+	padding:	   10px;
+}
+nav ul li {
+	display:	   inline;
+	padding:	   5px 10px 5px 10px;
+}
+nav li a {
+	display:	   block;
+	background-color:  #51ADA1;
+	text-decoration:   none;
+	border-bottom:     1px solid #777;
+	border-top:        1px solid #777;
+	color:	   	   #2E615A;
+	padding:	   10px;
+}
+nav ul li.selected {
+	background-color:   #2E615A;
+}
+section#main {
+	display: 	   table-cell;
+	margin:	           0 auto;
+	padding:           20px 10px 20px 10px;
+	width:		   990px;
+	background:        #6AE0D1;
+	font-size:         105%; 
+	vertical-align:	   top; 
+	text-align:        left; 		
+}
+aside {
+	display: 	   table-cell;
+	margin:		   0 auto;
+	padding:           20px 10px 20px 10px;
+	width:		   140px;
+	background:        #B1E6DE;
+	font-size:	   105%;
+	vertical-align:	   top;
+	text-align:        center; 		
+}
+footer {
+	clear:		   both;
+	text-align:        center;
+	font-weight:	   bold;
+	font:		   90%;	
+	background-color:  #2E615A;
+	height:            75px;	
+}
+h1 {
+	font-size:         175%;
+	margin:		   5px 0px 5px 0px;
+	text-align:        center;
+}
+h1#websitename {
+	font-size:         225%;
+	margin:		   5px 0px 5px 0px;
+	text-align:        center;
+}
+h2 h3{
+	margin:		   5px 0px 5px 0px;
+	text-align:        center;
+}
+h3#reservations {
+	color:		   #E0A653;
+	text-decoration:   underline;
+}
+p {
+	margin:		   0px 0px 20px 0px;
+	line-height:	   1.4em;
+}
+#hearts {
+	vertical-align:	   top;
+	font-weight:	   bold;
+	font-size:	   150%;	
+}
+#logo {
+	float:		   center;
+	margin:		   0px 0px 10px 0px;
+	vertical-align:	   top;	
+}
+#tableContainer {
+	display: 	   table;
+	border-spacing:	   5px;
+}
+#tableRow {
+	display:	   table-row;
+} 
+#lake {
+	float:		   center;
+	margin:		   30px 0px 0px 0px;
+	padding:           20px 10px 20px 10px;
+	text-align:        center;
+}
+#reviews {
+	font-style:	   italic;
+}
+#rating {
+	font:              50%;
+	vertical-align:	   top;
+}
+#luxury {
+	float:		   center;
+	margin:		   30px 0px 0px 0px;
+	padding:           20px 10px 20px 10px;
+	text-align:        center;
+}
+#log {
+	float:		   center;
+	margin:		   10px 0px 0px 0px;
+	padding:           20px 10px 20px 10px;
+	text-align:        center;
+}
+#lakehome {
+	float:		   center;
+	margin:		   10px 0px 0px 0px;
+	padding:           20px 10px 20px 10px;
+	text-align:        center;
+}
+#emoticon {
+	object-position:   center;
+	vertical-align:    top;
+}
+a:link {
+	color:		   #2E615A;
+	text-decoration:   none;
+	font-weight:	   bold;
+}
+a:visited {
+	color:		   #4B615E;
+	text-decoration:   none;
+	font-weight:	   bold;
+}
+a:hover {
+	color:		   #2E615A;
+	text-decoration:   none;
+	font-weight:	   bold;
+	background:	   #B1E6DE;
+}
+
+
